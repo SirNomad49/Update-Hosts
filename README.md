@@ -8,7 +8,7 @@ Installation Ubuntu:
        $ dpkg -l ksh 
   if ksh is installed continue to step 2
 
-  b.) install ksh
+  a.) install ksh
 
        $ sudo apt-get install ksh
 
