@@ -5,7 +5,8 @@ Installation Ubuntu:
 
   1.) Check if ksh is installed
 
-       $ dpkg -l ksh -- if ksh is installed continue to step 2
+       $ dpkg -l ksh 
+ *.) if ksh is installed continue to step 2
 
   b.) install ksh
 
